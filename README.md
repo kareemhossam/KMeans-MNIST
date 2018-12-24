@@ -1,2 +1,2 @@
-# KMeans-MNISET
-K-Means Clustering on the MNISET Dataset
+# KMeans-MNIST
+K-Means Clustering on the MNIST Dataset
